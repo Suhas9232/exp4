@@ -1,1 +1,2 @@
-sssss
+ai and ml
+project management with GIT
